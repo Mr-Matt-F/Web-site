@@ -884,7 +884,7 @@ section {
 }
 
 .footer .box-container .box a:hover {
-  font-size: 1.7rem;
+  letter-spacing: 1px;
   color: #55aed1;
 }
 
